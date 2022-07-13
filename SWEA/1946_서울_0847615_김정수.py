@@ -1,3 +1,4 @@
+#간단한 압축풀기
 import sys
 
 sys.stdin = open("input.txt", "r")
